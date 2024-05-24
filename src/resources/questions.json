@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Which is the only mammal that can’t jump?",
+        "optionA": "Dog",
+        "optionB": "Elephant",
+        "optionC": "Goat",
+        "optionD": "Lion",
+        "answer": "Elephant"
+    },
+    {
+        "question": "What is the capital of France?",
+        "optionA": "Berlin",
+        "optionB": "Madrid",
+        "optionC": "Paris",
+        "optionD": "Lisbon",
+        "answer": "Paris"
+    },
+    {
+        "question": "What is the smallest planet in our solar system?",
+        "optionA": "Earth",
+        "optionB": "Venus",
+        "optionC": "Mercury",
+        "optionD": "Mars",
+        "answer": "Mercury"
+    },
+    {
+        "question": "Which element has the chemical symbol 'O'?",
+        "optionA": "Gold",
+        "optionB": "Oxygen",
+        "optionC": "Osmium",
+        "optionD": "Oganesson",
+        "answer": "Oxygen"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "optionA": "Vincent van Gogh",
+        "optionB": "Pablo Picasso",
+        "optionC": "Leonardo da Vinci",
+        "optionD": "Claude Monet",
+        "answer": "Leonardo da Vinci"
+    },
+    {
+        "question": "What is the tallest mountain in the world?",
+        "optionA": "K2",
+        "optionB": "Kangchenjunga",
+        "optionC": "Lhotse",
+        "optionD": "Mount Everest",
+        "answer": "Mount Everest"
+    },
+    {
+        "question": "Which organ is responsible for pumping blood throughout the human body?",
+        "optionA": "Lungs",
+        "optionB": "Brain",
+        "optionC": "Liver",
+        "optionD": "Heart",
+        "answer": "Heart"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "optionA": "Earth",
+        "optionB": "Mars",
+        "optionC": "Jupiter",
+        "optionD": "Saturn",
+        "answer": "Mars"
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "optionA": "Atlantic Ocean",
+        "optionB": "Indian Ocean",
+        "optionC": "Arctic Ocean",
+        "optionD": "Pacific Ocean",
+        "answer": "Pacific Ocean"
+    },
+    {
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "optionA": "William Shakespeare",
+        "optionB": "Charles Dickens",
+        "optionC": "J.K. Rowling",
+        "optionD": "Mark Twain",
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "What is the smallest prime number?",
+        "optionA": "0",
+        "optionB": "1",
+        "optionC": "2",
+        "optionD": "3",
+        "answer": "2"
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "optionA": "Gold",
+        "optionB": "Iron",
+        "optionC": "Diamond",
+        "optionD": "Platinum",
+        "answer": "Diamond"
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "optionA": "China",
+        "optionB": "South Korea",
+        "optionC": "Japan",
+        "optionD": "Thailand",
+        "answer": "Japan"
+    },
+    {
+        "question": "What is the main ingredient in guacamole?",
+        "optionA": "Tomato",
+        "optionB": "Avocado",
+        "optionC": "Onion",
+        "optionD": "Pepper",
+        "answer": "Avocado"
+    },
+    {
+        "question": "Which element is said to keep bones strong?",
+        "optionA": "Potassium",
+        "optionB": "Iron",
+        "optionC": "Calcium",
+        "optionD": "Sodium",
+        "answer": "Calcium"
+    }
+]
